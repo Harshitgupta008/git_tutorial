@@ -19,7 +19,7 @@ commit = git commit -m "name of update"
 
 create a new branch = git checkout -b <branch_name> </br>
 switch branch = git checkout <branch_name> </br>
-check current branch = git branch
+check current branch = git branch </br>
 delete a exist branch = git branch -d <branch_name> </br>
 
 # pull another branch in main branch 
